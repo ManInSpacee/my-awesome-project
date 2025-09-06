@@ -5,3 +5,7 @@ Thumbs.db
 # Игнорирование логов и зависимостей
 npm-debug.log*
 node_modules/
+docs
+package.json
+package-lock.json
+.idea

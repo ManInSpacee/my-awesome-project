@@ -2,4 +2,4 @@
 ## Проект
 Этот репозиторий является каркасом для будущего веб-приложения.
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://maninspacee.github.io/src/my-awesome-project/index.html)
+- [Публичная страница на GitHub Pages](https://maninspacee.github.io/my-awesome-project/src/index.html)
